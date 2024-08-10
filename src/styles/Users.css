@@ -1,0 +1,40 @@
+/*Users.css */
+.users {
+    width: 100%;
+  }
+  
+  .users .kpis {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  
+  .users table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .users th, .users td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: left;
+  }
+  
+  .users button {
+    margin-right: 10px;
+  }
+  
+  .edit-button{
+    background-color: rgb(58, 165, 58);
+    border-radius:5px;
+    color:black;
+    font-weight:100px;
+  }
+
+  .ban-button{
+    background-color:orange;
+    border-radius:5px;
+    color:black;
+    font-weight:100px;
+    margin:2px;
+  }

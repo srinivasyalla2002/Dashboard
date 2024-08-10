@@ -1,0 +1,18 @@
+/* src/styles/App.css */
+.app {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  background-color:rgb(158, 198, 223);
+}
+
+.main {
+  display: flex;
+  flex: 1;
+}
+
+.content {
+  flex: 1;
+  padding: 20px;
+  padding-left:300px;
+}

@@ -1,0 +1,15 @@
+/*KPICard.css */
+.kpi-card {
+    background-color: #d3d0e0;
+    padding: 22px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(20, 177, 75, 0.778);
+    margin: 10px;
+    margin-top:100px;
+  }
+
+.text{
+  color:rgba(152, 7, 48, 0.381);
+  font-weight: 900;
+}
+  

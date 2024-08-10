@@ -1,0 +1,38 @@
+/*posts.css*/
+.posts {
+    width: 100%;
+  }
+  
+  .posts .kpis {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  
+  .posts table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .posts th, .posts td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: left;
+  }
+  
+  .posts button {
+    margin-right: 10px;
+  }
+  
+  .del-button{
+    background-color: red;
+    border-radius:5px;
+    color: #ddd;
+  }
+
+  .hide-button{
+    background-color: blue;
+    border-radius:5px;
+    color: #ddd;
+    margin:2px;
+  }

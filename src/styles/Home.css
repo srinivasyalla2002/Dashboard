@@ -1,0 +1,11 @@
+/*styles/Home.css */
+.home {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+.heading{
+  padding-left:100px;
+  color-interpolation-filters: linearRGB(red,blue);
+}
+  
